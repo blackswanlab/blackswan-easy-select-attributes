@@ -15,7 +15,7 @@ Tested up to: 6.0
 Requires at least: 5.0
 WC requires at least: 4.0
 WC tested up to: 6.6.1
-Text Domain: blackswan-woo-attr-select
+Text Domain: blackswan-woo-attributes-easy-select
 Domain Path: /languages
 Copyright: (c) amirhp.com, All rights reserved.
 License: GPLv2 or later
@@ -31,7 +31,7 @@ if (!class_exists("wc_attributes_easy_select")) {
     public $version = "1.0.0";
     public function __construct()
     {
-      load_plugin_textdomain("blackswan-woo-attr-select", false, dirname(plugin_basename(__FILE__))."/languages/");
+      load_plugin_textdomain("blackswan-woo-attributes-easy-select", false, dirname(plugin_basename(__FILE__))."/languages/");
       add_action("admin_enqueue_scripts", array($this, 'admin_enqueue_scripts'));
     }
     public function admin_enqueue_scripts($hook)

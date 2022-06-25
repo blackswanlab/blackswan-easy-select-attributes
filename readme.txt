@@ -19,10 +19,7 @@ Easily search among attributes on WooCommerce manage-products screen, useful for
 Easily search among attributes on WooCommerce manage-products screen, useful for shops with more than hundred attributes. Just install and head to add a new product or edit an existing one, then scroll to prodcut attributes and click on attributes drop down. Tada! use search bar to find your desired attribute.
 
 ---
-#### [BlackSwan](https://blackswanlab.ir/")
-#### [Developer](https://amirhp.com/")
-#### [Donate](https://amirhp.com/contact/#payment")
-#### [Contribute](https://github.com/blackswanlab")
+#### [BlackSwan](https://blackswanlab.ir/) / [Developer](https://amirhp.com/) / [Donate](https://amirhp.com/contact/#payment) / [Contribute](https://github.com/blackswanlab/blackswan-easy-select-attributes)
 
 
 
@@ -40,12 +37,12 @@ Easily search among attributes on WooCommerce manage-products screen, useful for
 
 = How to report problems or give feedback? =
 
-You can use WordPress Support Forum or contact Developer directly using mail address: [its [at] amirhp [dot] com](mailto:its@amirhp.com").
+You can use WordPress Support Forum or contact Developer directly using mail address: [its [at] amirhp [dot] com](mailto:its@amirhp.com).
 
 = How can I contribute? =
 
-You can help us improve our works by committing your changes to [BlackSwan GitHub repository](https://github.com/blackswanlab").
-
+You can help us improve our works by committing your changes to project's GitHub repository:
+*[https://github.com/blackswanlab/blackswan-easy-select-attributes](https://github.com/blackswanlab/blackswan-easy-select-attributes)*
 
 == Screenshots ==
 
@@ -61,7 +58,7 @@ You can help us improve our works by committing your changes to [BlackSwan GitHu
 
 == About BlackSwan ==
 
-BlackSwan is a premium supplier of quality WordPress plugins, services and support. if you enjoy our products, please consider giving us a five-star rating.
+***[BlackSwan](https://blackswanlab.ir/)*** is a premium supplier of quality WordPress plugins, services and support. if you enjoy our products, please consider giving us a five-star rating.
 
 
 == Upgrade Notice ==
