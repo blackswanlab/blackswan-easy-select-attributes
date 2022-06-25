@@ -1,3 +1,5 @@
+![](https://ps.w.org/blackswan-woo-attributes-easy-select/assets/banner-1544x500.png)
+
 **BlackSwan Easy-Select Attributes for WooCommerce**
 ========================================
 
