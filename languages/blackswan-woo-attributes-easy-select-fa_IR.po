@@ -1,0 +1,32 @@
+# Translation of Plugins - BlackSwan Easy-Select Attributes for WooCommerce - Development (trunk) in Persian
+# This file is distributed under the same license as the Plugins - BlackSwan Easy-Select Attributes for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-07-03 14:36:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - BlackSwan Easy-Select Attributes for WooCommerce - Development (trunk)\n"
+
+#. Author URI of the plugin
+msgid "https://amirhp.com"
+msgstr "https://amirhp.com"
+
+#. Author of the plugin
+msgid "BlackSwan"
+msgstr "BlackSwan"
+
+#. Description of the plugin
+msgid "Easily search among attributes on manage-products screen, useful for shops with more than hundred attributes."
+msgstr "به راحتی میان ویژگی محصولات ووکامرسی در صفحه ویرایش محصول جستجو کنید، مناسب برای فروشگاهای با بیش از یکصد ویژگی"
+
+#. Plugin URI of the plugin
+msgid "https://blackswanlab.ir"
+msgstr "https://blackswanlab.ir"
+
+#. Plugin Name of the plugin
+msgid "BlackSwan Easy-Select Attributes for WooCommerce"
+msgstr "قوی سیاه - جستجوی ویژگی محصولات ووکامرس"
